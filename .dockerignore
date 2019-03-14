@@ -1,0 +1,5 @@
+.gitignore
+.git/
+app/*
+!app/project.clj
+README.md
